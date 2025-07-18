@@ -66,6 +66,6 @@ Deborah Shonubi
 
 Data Analyst in Training
 
-<img width="818" height="495" alt="Dashboard Screenschot" src="https://github.com/user-attachments/assets/d7c8293b-4a7d-4db9-ac47-2977fea4f9dc" />
+
 
 
